@@ -4,19 +4,15 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+April 5th, 2017
 ### Student Name:  
-(First and Last Name)
-
+Melissa Silla
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+Lesson eight introduces AJAX and JSON and how these are used to help web developers build fast web applications
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://melissasilla.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX
+2. JSON
+3. Updating web pages and adding them to the DOM
